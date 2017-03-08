@@ -1,0 +1,1 @@
+mvn deploy -DaltDeploymentRepository=ik-analyzer::default::file:G:/workproject/codes/openresource/wltea-IK-Analyzer-2012FF/repository/
