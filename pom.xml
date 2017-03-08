@@ -8,5 +8,24 @@
     <artifactId>wltea-IK-Analyzer-2012FF</artifactId>
     <version>1.0.0</version>
 
-    
+
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-queryparser -->
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-queryparser</artifactId>
+            <version>4.0.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.lucene/lucene-analyzers-common -->
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-analyzers-common</artifactId>
+            <version>4.0.0</version>
+        </dependency>
+
+
+    </dependencies>
+
+
 </project>
