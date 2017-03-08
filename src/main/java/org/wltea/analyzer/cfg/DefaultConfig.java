@@ -44,8 +44,8 @@ public class DefaultConfig implements Configuration{
 	 */
 //	private static final String PATH_DIC_MAIN = "org/wltea/analyzer/dic/main2012.dic";
 //	private static final String PATH_DIC_QUANTIFIER = "org/wltea/analyzer/dic/quantifier.dic";
-	private static final String PATH_DIC_MAIN = "main2012.dic";
-	private static final String PATH_DIC_QUANTIFIER = "quantifier.dic";
+	private static final String PATH_DIC_MAIN = "dict/main2012.dic";
+	private static final String PATH_DIC_QUANTIFIER = "dict/quantifier.dic";
 
 	/*
 	 * 分词器配置文件路径
